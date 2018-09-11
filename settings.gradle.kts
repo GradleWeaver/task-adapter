@@ -4,9 +4,7 @@ include(":integration-tests")
 include(":integration-tests:gradle-legacy")
 include(":integration-tests:gradle-modern")
 
-
 rootProject.name = "task-adapter"
-
 
 /**
  * This configures the gradle build so we can use non-standard build file names.
